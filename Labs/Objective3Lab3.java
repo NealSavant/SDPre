@@ -9,7 +9,7 @@ public class Objective3Lab3{
 		System.out.println("How old are you?");
 		
 		currentYear = 2019;
-		age = input.next();
+		age = input.nextInt();
 		birthYear = currentYear - age;
 		
 		System.out.println("You were born in " + birthYear);

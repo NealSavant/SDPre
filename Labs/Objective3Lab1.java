@@ -1,3 +1,4 @@
+//Neal Savant
 import java.util.Scanner;
 
 public class Objective3Lab1{

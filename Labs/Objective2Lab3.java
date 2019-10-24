@@ -1,3 +1,4 @@
+//Neal Savant
 public class Objective2Lab3{
 	public static void main(String[] args){
 		String food1, food2, food3;
